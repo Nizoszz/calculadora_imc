@@ -24,10 +24,11 @@ Este é um projeto desenvolvido como parte do Desafio de Projeto do BootCamp de 
 
 | IMC            | Classificação                |
 |----------------|------------------------------|
-| Menor que 18.5 | Abaixo do Peso               |
-| 18.5 - 24.9    | Peso Normal                  |
+| Menor que 16   | Magreza grave                |
+| 16 - 17        | Magreza moderada             |
+| 16 - 18.5      | Magreza leve                 |
+| 18.5 - 25      | Saudável                     |
 | 25.0 - 29.9    | Sobrepeso                    |
 | 30.0 - 34.9    | Obesidade Grau I             |
 | 35.0 - 39.9    | Obesidade Grau II (severa)   |
 | Maior que 40.0 | Obesidade Grau III (mórbida) |
-|----------------|------------------------------|
