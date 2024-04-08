@@ -30,4 +30,3 @@ Este é um projeto desenvolvido como parte do Desafio de Projeto do BootCamp de 
 | 30.0 - 34.9    | Obesidade Grau I             |
 | 35.0 - 39.9    | Obesidade Grau II (severa)   |
 | Maior que 40.0 | Obesidade Grau III (mórbida) |
-|----------------|------------------------------|
